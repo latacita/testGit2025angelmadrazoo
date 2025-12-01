@@ -17,4 +17,10 @@
 9 git checkout RamaB
 10 Editar dirección correctamente
 11 git add bitacora.txt direccion.txt + git commit -m "Paso 11"
-
+12 git checkout master
+13 git merge RamaA (Fast-forward, ya que la rama master no ha tenído "commits" nuevos desde la
+    creación de la ramaA), surjen conflictos al hacer el merge, se solucionan y se hace hace add + commit
+14 git merge RamaB (Recursivo, ya que al hacer el merge anterior han surjido nuevos "commits" que no
+    existián en el momento de la creación de esta ramaB),  surjen conflictos al hacer el merge,
+    se solucionan y se hace hace add + commit
+15 git add bitacora.txt + git commit -m "Paso 15"
