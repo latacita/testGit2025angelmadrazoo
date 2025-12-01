@@ -1,8 +1,11 @@
 %%==================================================================%%
 %%                 Métodos de Desarrollo - Test de Git              %%
 %%==================================================================%%
-%% Alumno (Apellidos, Nombre):                                      %%
+%% Alumno (Apellidos, Nombre):Ángel Madrazo Blanco                  %%
 %%==================================================================%%
 
  Paso   Acción                       Notas
 ====== ============================ ================================
+1 git clone URL
+2 editar bitacora con nombre y apellidos
+3 git add bitaocra.txt + git commit -m "Paso 3"
