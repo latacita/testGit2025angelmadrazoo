@@ -24,3 +24,13 @@
     existián en el momento de la creación de esta ramaB),  surjen conflictos al hacer el merge,
     se solucionan y se hace hace add + commit
 15 git add bitacora.txt + git commit -m "Paso 15"
+16 git branch ramaC
+17 git checkout ramaC
+18 editar direccion y añadir codigo postal
+19 git branch -r como no existe ramaD en el remoto---> git branch RamaD-->
+    (primero guardamos cambios temporalmente)--->git stash-->git checkout RamaD--->(subo solo esa rama)--->
+    git push origin RamaD
+20 creamos calificacion.txt ya que no existía
+21 git add califiacion.txt + git commit -m "Paso 21"
+22 git checkout RamaC
+23 git stash apply + edito bitacora + git add . + git commit -m "Paso 23"
