@@ -9,3 +9,9 @@
 1 git clone URL
 2 editar bitacora con nombre y apellidos
 3 git add bitaocra.txt + git commit -m "Paso 3"
+4 git branch RamaA
+5 git branch RamaB
+6 git checkout RamaA
+7 Editar dirección cometiendo error
+8 git add bitacora.txt direccion.txt + git commit -m "Paso 8"
+
