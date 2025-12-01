@@ -34,3 +34,10 @@
 21 git add califiacion.txt + git commit -m "Paso 21"
 22 git checkout RamaC
 23 git stash apply + edito bitacora + git add . + git commit -m "Paso 23"
+24 git checkout master
+25 En este momento el merge seria fast-forward ya que desde que se creo la ramaC no ha habido nuevos
+    commits en la rama master
+26 git merge RamaD (sin conflictos)
+27 git merge ramaC (sin conflictos)
+28 git tag Conseguido
+29 editar bitacora + git add . + git commit -m "Paso 29"
