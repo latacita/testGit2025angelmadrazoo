@@ -1,6 +1,6 @@
 Centro:Universidad de Cantabria
-Calle:Los Castros
-Número:X
-CP:39160
+Calle: Los Castros
+Número: X
+CP: 39160
 Ciudad: Santander
-Provincia:Santander
+Provincia: Cantabria

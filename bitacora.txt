@@ -14,4 +14,7 @@
 6 git checkout RamaA
 7 Editar dirección cometiendo error
 8 git add bitacora.txt direccion.txt + git commit -m "Paso 8"
+9 git checkout RamaB
+10 Editar dirección correctamente
+11 git add bitacora.txt direccion.txt + git commit -m "Paso 11"
 
